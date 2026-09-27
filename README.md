@@ -96,4 +96,3 @@ Undergraduate foundation in computer science, programming, algorithms, databases
 
 ### `Design → Build → Test → Measure → Improve`
 
-Thanks for visiting my profile! 👋
