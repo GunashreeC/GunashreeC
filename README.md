@@ -94,5 +94,10 @@ Undergraduate foundation in computer science, programming, algorithms, databases
 
 ---
 
+## LinkedIn
+
+**[LinkedIn](https://www.linkedin.com/in/gunashree-channakeshava/)**
+
+---
 ### `Design → Build → Test → Measure → Improve`
 
